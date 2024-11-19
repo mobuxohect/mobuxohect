@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me mark.falvi.orlov@gmail.com
-- 😄 Pronouns: he his
+- 😄 Pronouns: he him
 - ⚡ Fun fact: russian
 
 <!---
